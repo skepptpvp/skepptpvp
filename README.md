@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm raiin</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skepptpvp&label=Profile%20views&color=0e75b6&style=flat" alt="skepptpvp" /> </p>
 
-- 🔭 I’m currently working on [Chat-GPT-bypass-real](https://github.com/skepptpvp/Chat-GPT-bypass-real)
+- 🔭 I’m currently working on [VelonyMC](https://skepptpvp.github.io/velony-showcase/index.html)
 
 - 🌱 I’m currently learning **C#**
 
