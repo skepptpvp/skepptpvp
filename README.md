@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm raiin</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skepptpvp&label=Profile%20views&color=0e75b6&style=flat" alt="skepptpvp" /> </p>
 
-- 🔭 I’m currently working on [VelonyMC](https://skepptpvp.github.io/velony-showcase/index.html)
+- 🔭 I’m currently working on [Splashy](https://splashy.tk)
 
 - 🌱 I’m currently learning **C#**
 
 - 👨‍💻 All of my projects are available at [https://skepptpvp.github.io](https://skepptpvp.github.io)
 
-- 💬 Ask me about **shell, python, java, mysql**
+- 💬 Ask me about **shell, python, java, MySQL**
 
-- 📫 How to reach me **amarbajric45@gmail.com**
+- 📫 How to reach me **glib#5490**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
