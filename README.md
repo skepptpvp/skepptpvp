@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C#**
 
-- 👨‍💻 All of my projects are available at [https://skepptpvp.github.io](https://skepptpvp.github.io)
+- 👨‍💻 All of my projects are available at [they're not](https://terrorist.zone)
 
 - 💬 Ask me about **shell, python, java, MySQL**
 
