@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm raiin</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skepptpvp&label=Profile%20views&color=0e75b6&style=flat" alt="skepptpvp" /> </p>
 
-- 🔭 I’m currently working on [Splashy](https://splashy.tk)
+- 🔭 I’m currently working on nothing
 
 - 🌱 I’m currently learning **C#**
 
 - 👨‍💻 All of my projects are available at [they're not](https://terrorist.zone)
 
-- 💬 Ask me about **shell, python, java, MySQL**
+- 💬 Ask me about **Bash, Python, Java, MySQL**
 
-- 📫 How to reach me **glib#5490**
+- 📫 How to reach me **raiin@terrorist.services or rainjava on Discord**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
